@@ -1,0 +1,4 @@
+# - use "-m" para escrever mensagem
+ - Use "git add -a" para adicionar as modificações no repositório do git hub
+ - Use "git commit -m" para comitar as modificações
+ - use "git push origin main" para colocar o repositório com todas as alterações na nuvem
